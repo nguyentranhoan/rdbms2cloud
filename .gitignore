@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# parquet files
+*.parquet
+_SUCCESS
+aws-java-sdk-s3-1.12.305.jar
